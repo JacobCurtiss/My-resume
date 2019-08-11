@@ -1,0 +1,22 @@
+html {
+    width: 100%;
+    min-height: 100%;
+}
+
+#head {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+
+#contact {
+    display: flex;
+    justify-content: center;
+}
